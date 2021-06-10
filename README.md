@@ -238,5 +238,5 @@ python test_flaskr.py
 * [Siddartha Thentu](https://github.com/siddarthaThentu) 
 
 ## Acknowledgements
-* [Udacity](https://www.udacity.com/) The project was developed as a part of Udacity's Data Science Nanodegree Program.
-* [FigureEight](https://appen.com/) For providing the datasets to train the model.
+* [Udacity](https://www.udacity.com/) The project was developed as a part of Udacity's Full Stack Nanodegree Program.
+
