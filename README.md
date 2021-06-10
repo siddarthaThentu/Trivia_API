@@ -51,7 +51,7 @@ With Postgres running, restore a database using the trivia.psql file provided. F
 psql trivia < trivia.psql
 ```
 
-## Running the server
+## Running the backend server
 
 From within the `backend` directory first ensure you are working using your created virtual environment.
 
@@ -62,10 +62,18 @@ export FLASK_APP=flaskr
 export FLASK_ENV=development
 flask run
 ```
-
 Setting the `FLASK_ENV` variable to `development` will detect file changes and restart the server automatically.
 
 Setting the `FLASK_APP` variable to `flaskr` directs flask to use the `flaskr` directory and the `__init__.py` file to find the application. 
+
+## Running the frontend server
+
+From within the `frontend` directory execute
+
+```
+npm install
+npm start
+```
 
 ## Tasks
 
