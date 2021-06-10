@@ -240,3 +240,17 @@ python test_flaskr.py
 ## Acknowledgements
 * [Udacity](https://www.udacity.com/) The project was developed as a part of Udacity's Full Stack Nanodegree Program.
 
+## Screenshots
+
+**Playing trivia**
+
+![play_trivia](play.PNG)
+
+![play_trivia2](play2.PNG)
+
+**Search a question**
+![search](search.PNG)
+
+**Add a question**
+![add](add.PNG)
+
