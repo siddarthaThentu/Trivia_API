@@ -230,3 +230,13 @@ createdb trivia_test
 psql trivia_test < trivia.psql
 python test_flaskr.py
 ```
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Author
+* [Siddartha Thentu](https://github.com/siddarthaThentu) 
+
+## Acknowledgements
+* [Udacity](https://www.udacity.com/) The project was developed as a part of Udacity's Data Science Nanodegree Program.
+* [FigureEight](https://appen.com/) For providing the datasets to train the model.
