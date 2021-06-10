@@ -246,7 +246,7 @@ python test_flaskr.py
 
 ![play_trivia](play.PNG)
 
-![play_trivia2](play2.PNG)
+![play_trivia2](play_2.PNG)
 
 **Search a question**
 ![search](search.PNG)
